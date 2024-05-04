@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b750e2f0-5dba-48da-9a4f-b0c619523a97}</ProjectGuid>
+    <ProjectGuid>{6d17843d-c182-4cc6-ab74-e240e4e4cd42}</ProjectGuid>
     <RootNamespace>GameJJ</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
